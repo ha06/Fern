@@ -1,0 +1,26 @@
+# # -- Send email when the job exits, is aborted or suspended
+$ -m eas
+$ -M ha442@sussex.ac.uk
+echo "Running job script"
+
+module unload python
+module load python/3.5.1
+
+
+./GA.py
+echo "Finished job script"# available, otherwise, set the default value, ARG_DIGITS=10
+##ARG_DIGITS="${1:-10}"
+## Here we execute usual shell commands like any other shell script. The
+## output here will be sent to the job's standard out 
+#echo "Running job script"
+## We can set up an environment variable that can be seen by the script
+##export MY_ENV_VAR="This variable is exported into the process's environment"
+## We need to ensure we set up the complete environment needed by our job,
+## in this case, just loading the python module
+#
+##this make sure that we are running the type of python that we need no other
+#module unload python
+#module load python/3.4.3
+#
+## Finally we run our executable. Here we are passing the command line argument
+## above to the script. Since we are using the option -cwd above, we can use a

@@ -1,0 +1,29 @@
+version: 1
+
+formatters:
+  primary:
+    format: "%(asctime)s [%(funcName)s %(lineno)d] %(name)s: %(message)s"
+  extended:
+    format: "%(asctime)s [%(pathname)s %(funcName)s %(lineno)d] %(name)s: %(levelname)s: %(message)s"
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: primary
+
+  file_handler:
+    class: logging.handlers.RotatingFileHandler
+    maxBytes: 40960
+    backupCount: 2
+    level: INFO
+    filename: logtest.log
+    formatter: extended
+
+loggers:
+  dev:
+    handlers: [console, file_handler]
+  test:
+    handlers: [file_handler]
+root:
+  handlers: [file_handler]

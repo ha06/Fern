@@ -1,0 +1,133 @@
+2023-03-10 13:33:41,075 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 133] dev: INFO: current output_dir:/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/output1
+2023-03-10 13:33:41,076 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 134] dev: INFO: ITERATION1
+2023-03-10 13:33:41,076 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 135] dev: INFO: Initial population for iteration 1:
+2023-03-10 13:33:41,244 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 0:[ 0.25048467  0.27361018 -0.11777799  0.21506103 -0.07822967 -0.1989506
+ -0.31924034  0.21699243  0.37711437  0.06321705 -0.20063182 -0.21106565]
+2023-03-10 13:33:41,244 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.234660374839801
+2023-03-10 13:33:41,300 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 1:[-0.21684865 -0.25973341  0.10202229 -0.35650375 -0.38350839 -0.01017308
+  0.2418068   0.19202152 -0.24005639 -0.1588625  -0.04574496 -0.39175442]
+2023-03-10 13:33:41,300 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.182213811324052
+2023-03-10 13:33:41,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 2:[-0.23591144  0.31197841 -0.39138965 -0.35283829 -0.02138745  0.1544636
+  0.23233122 -0.21568528 -0.15394358  0.15616984 -0.31086943 -0.31182769]
+2023-03-10 13:33:41,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.0932101027527672
+2023-03-10 13:33:41,407 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 3:[ 0.32866407  0.32143359 -0.29771929  0.18230973 -0.37712466 -0.36143009
+  0.09507166  0.23420648 -0.15278116  0.05135365  0.10844335 -0.19690974]
+2023-03-10 13:33:41,407 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.0700918866872422
+2023-03-10 13:33:41,461 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 4:[-0.10184021 -0.13724531  0.02105604 -0.36579544 -0.14567333  0.28273656
+ -0.3272996  -0.111297    0.25834011  0.09309548  0.21249335  0.20050092]
+2023-03-10 13:33:41,462 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.213759917549406
+2023-03-10 13:33:41,516 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 5:[-0.38039694 -0.36355604  0.07576667  0.22098948  0.36255571 -0.23629542
+ -0.353215   -0.27173956 -0.37827741 -0.19719511  0.18111479 -0.18052011]
+2023-03-10 13:33:41,516 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.2036357094948447
+2023-03-10 13:33:41,597 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 6:[ 0.18301136 -0.18312847  0.06188022 -0.06709983  0.2823696  -0.29786566
+  0.39479252 -0.28808449  0.06346956  0.34872346 -0.20230046 -0.32092867]
+2023-03-10 13:33:41,597 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.006264510518983
+2023-03-10 13:33:41,666 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 7:[ 0.06548581 -0.22860899  0.38038842 -0.2691394   0.18245418 -0.11918263
+  0.15900789 -0.38338407 -0.15061432  0.19813932 -0.12299519 -0.26517222]
+2023-03-10 13:33:41,666 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.0557571531211971
+2023-03-10 13:33:41,733 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 8:[-0.31357425 -0.18919727 -0.23590821 -0.2623728  -0.23075877 -0.22806363
+  0.22585957 -0.12119308  0.3726826   0.27069146  0.32679997 -0.37398523]
+2023-03-10 13:33:41,733 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.2774289240068146
+2023-03-10 13:33:41,802 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 9:[-0.09585439  0.03422188  0.27893288  0.33765543  0.35109313  0.18648885
+ -0.16554631 -0.15827835 -0.02250901 -0.24124093  0.16190193 -0.37640124]
+2023-03-10 13:33:41,802 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.2281559588880622
+2023-03-10 13:33:41,805 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.234660374839801
+2023-03-10 13:33:41,806 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.182213811324052
+2023-03-10 13:33:41,806 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.0932101027527672
+2023-03-10 13:33:41,807 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.0700918866872422
+2023-03-10 13:33:41,808 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.213759917549406
+2023-03-10 13:33:41,809 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.2036357094948447
+2023-03-10 13:33:41,810 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.006264510518983
+2023-03-10 13:33:41,811 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.0557571531211971
+2023-03-10 13:33:41,812 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.2774289240068146
+2023-03-10 13:33:41,813 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py logPopulationInfo 87] dev: INFO: Fitness cost:1.2281559588880622
+2023-03-10 13:33:41,815 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 142] dev: INFO: Select the top npop best cost population
+2023-03-10 13:33:41,825 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 151] dev: INFO: Number of Mutated children:4
+2023-03-10 13:33:41,825 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 153] dev: INFO: Total number of final chromosomes in iteration  1is12 Final population from iteration 1:
+2023-03-10 13:33:41,825 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_0[0.4 0.4 0.4 0.  0.4 0.4 0.4 0.4 0.1 0.  0.8 0.8]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_1[0.         0.29979992 0.11654172 0.4        0.09511577 0.38265017
+ 0.32631151 0.09714083 0.         0.1        0.8        0.8       ]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_2[]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_3[]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_4[]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_5[]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_6[]
+2023-03-10 13:33:41,826 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_7[]
+2023-03-10 13:33:41,827 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_8[-0.22096  0.22793 -0.37333 -0.31094 -0.12286  0.13709  0.273   -0.23303
+ -0.1      0.1      0.8      0.8    ]
+2023-03-10 13:33:41,827 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_9[ 0.24833 -0.17511  0.33387 -0.20483  0.08138 -0.12966  0.26558 -0.4
+ -0.1      0.1      0.8      0.8    ]
+2023-03-10 13:33:41,827 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_10[-0.35837 -0.2793  -0.4     -0.22522 -0.29482 -0.27817  0.22417 -0.25024
+  0.1      0.1      0.8      0.8    ]
+2023-03-10 13:33:41,828 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_11[-0.25685  0.31977 -0.4     -0.31425 -0.08745  0.24771  0.07868 -0.18039
+ -0.1      0.1      0.8      0.8    ]
+2023-03-10 13:33:41,828 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 158] dev: INFO: right before submission to pool
+2023-03-10 13:33:41,967 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 163] dev: INFO: Best Fitness cost in iteration:1.3495132322674723
+2023-03-10 13:33:41,967 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 164] dev: INFO: Select the top npop best cost population
+2023-03-10 13:33:41,968 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 168] dev: INFO: At iteration 1 Results are: 
+2023-03-10 13:33:41,968 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: All the fitness cost for this iteratration:
+2023-03-10 13:33:41,968 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 170] dev: INFO: [1.3495132322674723, 1.2879712262483867, 1.2309100937030408, 1.1445984911181595, 1.1445258282046675, 1.0956932778401478]
+2023-03-10 13:33:41,968 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 171] dev: INFO: Best Point: [0.24833, -0.17511, 0.33387, -0.20483, 0.08138, -0.12966, 0.26558, -0.4, -0.1, 0.1, 0.8, 0.8]
+2023-03-10 13:33:41,968 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 172] dev: INFO: Best Cost: 1.3495132322674723
+2023-03-10 13:33:42,606 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 133] dev: INFO: current output_dir:/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/output2
+2023-03-10 13:33:42,606 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 134] dev: INFO: ITERATION2
+2023-03-10 13:33:42,606 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 135] dev: INFO: Initial population for iteration 2:
+2023-03-10 13:33:42,683 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 0:[ 0.22068924  0.31034335 -0.0458603  -0.10395756 -0.27002113 -0.30976391
+ -0.03818552  0.17459164  0.11533792  0.07399582 -0.26424868 -0.25621272]
+2023-03-10 13:33:42,683 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.074362573924729
+2023-03-10 13:33:42,760 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 1:[-0.08816097 -0.22102402 -0.34755052  0.38435688  0.13473091  0.25889002
+  0.02534771 -0.3533085  -0.34033288 -0.19221183  0.14485375  0.37342168]
+2023-03-10 13:33:42,761 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.2061715962853228
+2023-03-10 13:33:42,877 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 2:[ 0.31225706 -0.09845421 -0.05569856 -0.36118624  0.35181099  0.23940923
+ -0.01869863 -0.3384928  -0.00070966 -0.38475149  0.2237723   0.32303874]
+2023-03-10 13:33:42,877 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.266938885931231
+2023-03-10 13:33:42,942 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 3:[ 0.10378438 -0.30849891 -0.33332985  0.27559448  0.14430562 -0.23922046
+  0.38228418  0.00788867  0.25839082 -0.25886835  0.23567681  0.39599396]
+2023-03-10 13:33:42,942 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.1624806954702682
+2023-03-10 13:33:43,011 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 4:[-0.20238137 -0.19167336  0.19809482 -0.24373491  0.24335339  0.03055586
+  0.14057391 -0.04841957 -0.0231051   0.11709421 -0.00294558  0.11686023]
+2023-03-10 13:33:43,011 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:0.8638715806185432
+2023-03-10 13:33:43,063 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 5:[ 0.24801777 -0.04626394 -0.07142564  0.14980687  0.10124494  0.20726012
+  0.21957265 -0.31280697  0.36450527 -0.12002458 -0.17163519 -0.13574528]
+2023-03-10 13:33:43,063 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.061255201627384
+2023-03-10 13:33:43,110 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 6:[-0.38517284  0.26185647  0.22534873  0.13725855  0.21533144  0.19647575
+ -0.23648013 -0.01190086 -0.24217199 -0.07350709 -0.33125926 -0.31341105]
+2023-03-10 13:33:43,110 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.1528543506441002
+2023-03-10 13:33:43,168 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 7:[ 0.26923089  0.11027762  0.15674243  0.02046176  0.16393979 -0.34505272
+ -0.22240714  0.16559519 -0.28101938 -0.15328911  0.0177348   0.1705132 ]
+2023-03-10 13:33:43,168 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.0160969916855929
+2023-03-10 13:33:43,221 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 8:[-0.19157515  0.20775917 -0.01427635  0.02089174  0.22891817  0.08852718
+  0.09476492  0.14594392  0.12835249 -0.35139282 -0.30495999  0.2387446 ]
+2023-03-10 13:33:43,221 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:1.0689039404217833
+2023-03-10 13:33:43,272 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 75] dev: INFO: Initial population: Pop 9:[-0.05356407 -0.06312287 -0.18506957 -0.04152358  0.0261299   0.35880464
+ -0.30177431 -0.2636187   0.39710971 -0.11476073 -0.13303966  0.16600013]
+2023-03-10 13:33:43,272 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py initializePopulation 76] dev: INFO: Fitness cost:0.9873402768275652
+2023-03-10 13:33:43,286 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 142] dev: INFO: Select the top npop best cost population
+2023-03-10 13:33:43,293 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 151] dev: INFO: Number of Mutated children:4
+2023-03-10 13:33:43,293 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 153] dev: INFO: Total number of final chromosomes in iteration  2is12 Final population from iteration 2:
+2023-03-10 13:33:43,293 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_0[0.4        0.4        0.21089892 0.12796585 0.4        0.
+ 0.2026433  0.07470558 0.1        0.         0.8        0.8       ]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_1[0.1851602  0.33020983 0.4        0.4        0.         0.4
+ 0.4        0.4        0.         0.1        0.8        0.8       ]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_2[]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_3[]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_4[]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_5[]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_6[]
+2023-03-10 13:33:43,294 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_7[]
+2023-03-10 13:33:43,295 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_8[ 0.00441 -0.12091 -0.4      0.24342  0.05834  0.35215 -0.07793 -0.36923
+ -0.1     -0.1      0.8      0.8    ]
+2023-03-10 13:33:43,295 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_9[-0.20828  0.21957 -0.10056 -0.04698  0.29646  0.23699  0.05587  0.18614
+  0.1     -0.1      0.8      0.8    ]
+2023-03-10 13:33:43,295 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_10[ 0.4     -0.0918  -0.0156  -0.39961  0.39069  0.31722 -0.18594 -0.2845
+  0.02844 -0.1      0.8      0.8    ]
+2023-03-10 13:33:43,296 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 157] dev: INFO: final_pop_11[ 0.08708 -0.29669 -0.4      0.20772  0.21185 -0.09075  0.34339  0.04808
+  0.1     -0.1      0.8      0.8    ]
+2023-03-10 13:33:43,296 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 158] dev: INFO: right before submission to pool
+2023-03-10 13:33:43,437 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 163] dev: INFO: Best Fitness cost in iteration:1.372765133162244
+2023-03-10 13:33:43,437 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 164] dev: INFO: Select the top npop best cost population
+2023-03-10 13:33:43,437 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 168] dev: INFO: At iteration 2 Results are: 
+2023-03-10 13:33:43,437 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: All the fitness cost for this iteratration:
+2023-03-10 13:33:43,437 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 170] dev: INFO: [1.372765133162244, 1.3388186984505157, 1.2226208907125076, 1.1828818953122566, 1.1365325760257095, 1.0975464568413538]
+2023-03-10 13:33:43,438 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 171] dev: INFO: Best Point: [0.08708, -0.29669, -0.4, 0.20772, 0.21185, -0.09075, 0.34339, 0.04808, 0.1, -0.1, 0.8, 0.8]
+2023-03-10 13:33:43,438 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 172] dev: INFO: Best Cost: 1.372765133162244

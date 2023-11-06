@@ -1,0 +1,111 @@
+2023-03-13 16:13:32,177 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_68[0.4        0.4        0.4        0.         0.4        0.4
+ 0.4        0.17142857 0.2        0.         0.7        0.7       ]
+2023-03-13 16:13:32,177 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_69[0.4        0.18983051 0.4        0.36610169 0.4        0.
+ 0.21694915 0.35254237 0.         0.2        0.7        0.7       ]
+2023-03-13 16:13:32,177 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_70[0.4        0.4        0.4        0.31666667 0.4        0.
+ 0.11666667 0.4        0.         0.2        0.7        0.7       ]
+2023-03-13 16:13:32,178 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_71[0.4        0.4        0.4        0.         0.4        0.34482759
+ 0.4        0.34482759 0.2        0.         0.7        0.7       ]
+2023-03-13 16:13:32,178 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_72[0.20645161 0.4        0.4        0.4        0.4        0.37419355
+ 0.         0.4        0.2        0.         0.7        0.7       ]
+2023-03-13 16:13:32,178 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_73[0.17647059 0.01176471 0.4        0.4        0.         0.21176471
+ 0.4        0.4        0.2        0.         0.7        0.7       ]
+2023-03-13 16:13:32,178 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_74[0.4 0.  0.4 0.4 0.4 0.4 0.4 0.4 nan nan 0.7 0.7]
+2023-03-13 16:13:32,179 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_75[0.4    0.4    0.4    0.35   0.225  0.4    0.     0.0125 0.2    0.
+ 0.7    0.7   ]
+2023-03-13 16:13:32,179 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_76[0.4        0.4        0.         0.4        0.4        0.4
+ 0.01212121 0.3030303  0.         0.2        0.7        0.7       ]
+2023-03-13 16:13:32,179 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_77[0.26329114 0.38481013 0.1721519  0.4        0.09113924 0.
+ 0.4        0.4        0.2        0.         0.7        0.7       ]
+2023-03-13 16:13:32,179 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_78[0.31764706 0.4        0.12941176 0.01176471 0.4        0.
+ 0.4        0.4        0.         0.2        0.7        0.7       ]
+2023-03-13 16:13:32,180 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_79[0.4        0.16       0.         0.4        0.4        0.4
+ 0.12307692 0.4        0.         0.2        0.7        0.7       ]
+2023-03-13 16:13:32,180 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_80[ 0.4      0.4      0.24373  0.32337  0.22254  0.10028  0.10738  0.10664
+  0.17926 -0.09347  0.77652  0.71576]
+2023-03-13 16:13:32,180 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_81[ 0.17375  0.4     -0.15184  0.12111  0.32361  0.29559  0.29672  0.19348
+  0.16453  0.11414  0.78061  0.7    ]
+2023-03-13 16:13:32,181 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_82[ 0.4      0.4      0.04009  0.36158  0.20396  0.36987  0.23276  0.4
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,181 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_83[ 0.4      0.1349   0.29025  0.25906 -0.07639  0.4      0.24454 -0.01592
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,181 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_84[ 0.19883  0.17207  0.33716  0.4      0.23286  0.15662 -0.04708  0.34879
+  0.04793  0.14544  0.74673  0.7    ]
+2023-03-13 16:13:32,181 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_85[ 0.27286  0.15696 -0.16536  0.4      0.33594  0.34989  0.39831  0.03566
+  0.0583   0.18435      nan      nan]
+2023-03-13 16:13:32,182 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_86[ 0.35521  0.3099  -0.05336  0.32516  0.06394 -0.05011  0.39831  0.27095
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,182 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_87[ 0.26838  0.4      0.03383  0.4      0.4      0.4      0.10409 -0.0157
+      nan      nan  0.71694  0.7    ]
+2023-03-13 16:13:32,182 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_88[-0.0167   0.21181  0.31371  0.33213  0.4      0.3367   0.36111  0.4
+  0.0583   0.18435      nan      nan]
+2023-03-13 16:13:32,183 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_89[ 0.4      0.30221  0.10241  0.32316  0.07776  0.4     -0.31225  0.4
+  0.04793  0.14544      nan      nan]
+2023-03-13 16:13:32,183 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_90[ 0.21932  0.3286  -0.002    0.22363  0.4      0.28014  0.23276  0.2634
+  0.16453  0.11414  0.78061  0.7    ]
+2023-03-13 16:13:32,183 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_91[ 0.24956 -0.0745  -0.04728  0.12593  0.2038   0.4      0.03884  0.34155
+  0.10623  0.12979  0.76367  0.7    ]
+2023-03-13 16:13:32,183 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_92[ 0.06771  0.3099   0.23464  0.4      0.13594 -0.05011  0.31081  0.27095
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,184 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_93[0.13814 0.16455 0.4     0.36158 0.18624 0.4     0.23276 0.4     0.0583
+ 0.18435 0.71694 0.7    ]
+2023-03-13 16:13:32,184 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_94[ 0.0398   0.4      0.23383  0.00299  0.4      0.4      0.4      0.31266
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,184 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_95[ 0.4     -0.03055  0.35348  0.4      0.19746  0.37215  0.39131 -0.0201
+ -0.02074  0.12218  0.75958  0.71576]
+2023-03-13 16:13:32,185 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_96[ 0.0958   0.4      0.31371  0.33213  0.26754  0.14847  0.27361  0.4
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,185 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_97[ 0.01559  0.3099  -0.13517  0.4      0.33594  0.22159  0.34548 -0.12905
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,185 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_98[-0.17641  0.31711  0.26847  0.4      0.26042  0.36739  0.4      0.01746
+  0.2     -0.05456  0.74673  0.7    ]
+2023-03-13 16:13:32,186 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_99[ 0.3049   0.2319   0.29862  0.4      0.03456  0.36526  0.08134  0.36532
+  0.2     -0.05456  0.74673  0.7    ]
+2023-03-13 16:13:32,186 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_100[ 0.4      0.2319   0.12501  0.4     -0.13627  0.36526  0.4     -0.03468
+  0.18963 -0.05456  0.74673  0.70788]
+2023-03-13 16:13:32,186 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_101[ 0.4      0.1349   0.29025  0.25906 -0.07639  0.4      0.24454 -0.01592
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,186 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_102[ 0.22889 -0.0901   0.23464  0.18452  0.33594  0.24463  0.01936  0.27095
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,187 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_103[ 0.31616  0.3099   0.12489  0.29622  0.25955  0.06065 -0.00088  0.02102
+  0.2     -0.07021  0.76367  0.7    ]
+2023-03-13 16:13:32,187 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_104[ 0.4      0.0785  -0.04652  0.38931  0.29893  0.38952  0.4      0.31907
+  0.0583   0.18435  0.71694  0.7    ]
+2023-03-13 16:13:32,187 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_105[ 0.4      0.4      0.20396 -0.16244  0.01434  0.4     -0.14217  0.38408
+  0.17926 -0.07782  0.75958  0.71576]
+2023-03-13 16:13:32,188 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_106[ 0.4      0.07197  0.30728  0.24602  0.33781  0.4      0.23276  0.06143
+  0.2     -0.09347  0.77652  0.70605]
+2023-03-13 16:13:32,188 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_107[ 0.4      0.4      0.4      0.31246  0.4      0.21816 -0.16724  0.18031
+ -0.01037  0.16109      nan      nan]
+2023-03-13 16:13:32,188 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_108[0.4     0.26333 0.35348 0.06431 0.05631 0.38296 0.4     0.02215 0.0583
+ 0.18435 0.71694 0.7    ]
+2023-03-13 16:13:32,188 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_109[ 0.4     -0.08405  0.4      0.4      0.29853  0.0522   0.19719  0.20874
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,189 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_110[ 0.4      0.4      0.29025  0.20994  0.32361  0.23361 -0.10328  0.11039
+  0.0583   0.18435      nan      nan]
+2023-03-13 16:13:32,189 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_111[ 0.3208   0.22431  0.31371  0.00713  0.13004  0.14847  0.36111  0.0527
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,189 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_112[ 0.22816  0.10011  0.05296  0.11669  0.32361  0.4      0.29672  0.3095
+  0.18963 -0.03891      nan      nan]
+2023-03-13 16:13:32,190 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_113[ 0.4      0.4      0.35348  0.4      0.29893  0.38952  0.4     -0.04343
+  0.2     -0.01565  0.71694  0.7    ]
+2023-03-13 16:13:32,190 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_114[ 0.16107  0.4     -0.08629  0.33213  0.4      0.17386  0.12619  0.4
+  0.18963 -0.03891  0.72979  0.70788]
+2023-03-13 16:13:32,190 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_115[ 0.29671  0.25486 -0.01632  0.4      0.33393  0.4      0.24635  0.2
+ -0.01037  0.16109      nan      nan]
+2023-03-13 16:13:32,190 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_116[-0.00533  0.4      0.22742  0.26426  0.4      0.29694  0.18888  0.4
+  0.2     -0.0313   0.73388  0.7    ]
+2023-03-13 16:13:32,191 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_117[0.4     0.4     0.24313 0.31259 0.25755 0.38952 0.10657 0.35657 0.0583
+ 0.18435     nan     nan]
+2023-03-13 16:13:32,191 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_118[ 4.0000e-01  5.3500e-02  3.5348e-01  8.6540e-02  9.8930e-02  6.3000e-04
+  4.0000e-01  3.5657e-01 -1.0370e-02  1.6109e-01  7.2979e-01  7.0788e-01]
+2023-03-13 16:13:32,191 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 169] dev: INFO: final_pop_119[ 0.37906  0.4      0.38368  0.4      0.33393  0.4     -0.15365  0.4
+ -0.01037  0.16109      nan      nan]
+2023-03-13 16:13:32,191 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 170] dev: INFO: right before submission to pool
+2023-03-13 16:13:32,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 174] dev: INFO: Best Fitness cost in iteration:500
+2023-03-13 16:13:32,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 175] dev: INFO: Select the top npop best cost population
+2023-03-13 16:13:32,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 179] dev: INFO: At iteration 20 Results are: 
+2023-03-13 16:13:32,354 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 180] dev: INFO: All the fitness cost for this iteratration:
+2023-03-13 16:13:32,355 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 181] dev: INFO: [500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 1.6024480647492918, 1.5700007604997277, 1.546498815082679, 1.5039997059156964, 1.4577893218793747, 1.4512182562331082, 1.3847342349298304, 1.38368180216533, 1.3819204719254534, 1.3800131636557016, 1.3725789148789636, 1.3707258203341723, 1.3685045972086018, 1.3663891618439619, 1.3467610243598913, 1.345231200209819, 1.3414681624281892, 1.3323293925485726, 1.3303957483592306, 1.3197219756360836, 1.3145149075973752, 1.3114031079301116, 1.3047413846151996, 1.2965815502395657, 1.295773670487868, 1.2956310114975542, 1.2953974417772722, 1.2905494111059825, 1.2877503875175653, 1.2839895582971845, 1.283899033464971, 1.2794817093441644, 1.27932911706996, 1.2785914268261591, 1.275153185993082, 1.2746137817711103, 1.2736026009630956, 1.2653877993728375, 1.2648857294935498, 1.2638706129909716, 1.263157112577065, 1.260989044053449, 1.2599484929953797, 1.2594660749772935, 1.2561657306627991, 1.2538530344677912, 1.2534650471943372, 1.2532997889982413, 1.2528035923525653, 1.2516203919396567, 1.2471916960542768, 1.2458439617322223, 1.2419250947161677, 1.2375147244531215, 1.2325648572842263, 1.2312652582927306, 1.231071955345188, 1.2291374296607, 1.2255781791073448, 1.2244166787184845, 1.2230816637435624, 1.2221168260958288, 1.218279312775218, 1.2161533013264074, 1.2135263801591358, 1.2128949353533223, 1.2127233347225885, 1.2102779225744416, 1.2100818959968045, 1.208497691953915, 1.2080700826396893, 1.2017870346494492, 1.1992183906996652, 1.1887607411628276, 1.1886428488646266, 1.187844851030196, 1.187316909096124, 1.1851562884022908, 1.1844584358398433, 1.1837512379083976, 1.1812223390429184, 1.1774419849807027, 1.1693864330913641, 1.1655455479042236, 1.164427900165528, 1.1643728294869224, 1.1627424409552907, 1.1625315337698678, 1.1573288790601324, 1.1510218780242172, 1.1481630735252542, 1.1467488724545074, 1.142653747164963, 1.1346638167869108, 1.1304773028465418, 1.1299643223782714, 1.1285118132761667, 1.127005820787451, 1.1253590513528362, 1.1232882783495752, 1.1115281580054281, 1.0993582185286221, 1.0959888528827744, 1.0959180976859346, 1.0855801784890986, 1.0723795536190486]
+2023-03-13 16:13:32,355 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 182] dev: INFO: Best Point: [0.23859649122807017, 0.0, 0.4, 0.2807017543859649, 0.4, 0.4, 0.4, 0.19649122807017544, 0.2, 0.0, nan, nan]
+2023-03-13 16:13:32,355 [/home/ha442/Code/Fractals-with-Genetic-Algorithm/Fern/Fern_twelve_param/GA.py mainFunc 183] dev: INFO: Best Cost: 500

@@ -1,0 +1,7 @@
+Best fractal dimension for iteration 1 is: 1.3503578874032056
+Best fractal dimension for iteration 2 is: 1.363885957404801
+Best fractal dimension for iteration 3 is: 1.3496686580007604
+Best fractal dimension for iteration 4 is: 1.3690605818377741
+Best fractal dimension for iteration 5 is: 1.343398717062533
+Best fractal dimension for iteration 6 is: 1.377277914220495
+Best fractal dimension for iteration 7 is: 1.3706580730308409
